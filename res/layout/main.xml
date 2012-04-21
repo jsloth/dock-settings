@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtInDock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In Dock" />
+
+    <CheckBox
+        android:id="@+id/chkDisableScreenLock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Disable screen lock" />
+
+    <CheckBox
+        android:id="@+id/chkDimDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dim display" />
+
+    <CheckBox
+        android:id="@+id/chkDisableKeyLight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Disable key light" />
+
+    <CheckBox
+        android:id="@+id/chkVibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set ringer to vibrate" />
+
+</LinearLayout>
