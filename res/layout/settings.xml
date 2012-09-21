@@ -8,30 +8,30 @@
         android:id="@+id/txtInDock"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="In Dock" />
+        android:text="@string/in_dock" />
 
     <CheckBox
         android:id="@+id/chkDisableScreenLock"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Disable screen lock" />
+        android:text="@string/disable_screen_lock" />
 
     <CheckBox
         android:id="@+id/chkDimDisplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Dim display" />
+        android:text="@string/dim_display" />
 
     <CheckBox
         android:id="@+id/chkDisableKeyLight"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Disable key light" />
+        android:text="@string/disable_key_light" />
 
     <CheckBox
         android:id="@+id/chkVibrate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Set ringer to vibrate" />
+        android:text="@string/set_ringer_to_vibrate" />
 
 </LinearLayout>

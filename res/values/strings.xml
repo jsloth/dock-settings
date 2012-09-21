@@ -3,5 +3,10 @@
 
     <string name="hello">Hello World, DockSettingsActivity!</string>
     <string name="app_name">Dock Settings</string>
+    <string name="in_dock">In Dock</string>
+    <string name="disable_screen_lock">Disable screen lock</string>
+    <string name="dim_display">Dim display</string>
+    <string name="disable_key_light">Disable key light</string>
+    <string name="set_ringer_to_vibrate">Set ringer to vibrate</string>
 
 </resources>
